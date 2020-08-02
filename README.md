@@ -25,3 +25,13 @@ Here are some ideas to get you started:
     🤹‍♀️ <a href="https://github.com/hzwdachui/notes">Recent Blogs</a>
 </h1>
 
+<div>
+	<p>todo: auto feed my blogs here</p>
+</div>
+
+📫 How to reach me: 
+
+wangziqizachary@163.com
+wangziqi@alumni.stanford.edu
+
+Both English and Chinese work for me
