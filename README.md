@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>⚡⚡⚡ I WANT TO HAVE A CAT ⚡⚡⚡</h1>
+<h1 style="text-align:center">⚡⚡⚡ I WANT TO HAVE A CAT ⚡⚡⚡</h1>
 
+<div style="text-align:center">
 ![image](https://github.com/hzwdachui/hzwdachui/blob/master/catsuck.gif) 
+</div>
 
 <h1>
     🤹‍♀️ <a href="https://github.com/hzwdachui/notes">Recent Blogs</a>
