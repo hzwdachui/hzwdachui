@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 style="text-align:center">⚡⚡⚡ I WANT TO HAVE A CAT ⚡⚡⚡</h1>
 
 <div style="text-align:center">
-![image](https://github.com/hzwdachui/hzwdachui/blob/master/catsuck.gif) 
+	<img src="https://github.com/hzwdachui/hzwdachui/blob/master/catsuck.gif">
 </div>
 
 <h1>
