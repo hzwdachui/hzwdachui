@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1> 👋  Hello World! </h1>
 
 <!--
 **hzwdachui/hzwdachui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ⚡⚡⚡ I WANT TO HAVE A CAT ⚡⚡⚡
-![image](https://github.com/hzwdachui/hzwdachui/blob/master/catsuck.gif )   
+<h1>⚡⚡⚡ I WANT TO HAVE A CAT ⚡⚡⚡</h1> 
+![image](https://github.com/hzwdachui/hzwdachui/blob/master/catsuck.gif ) 
+
+<h1>
+    🤹‍♀️ <a href="https://github.com/hzwdachui/notes">Recent Blogs</a>
+</h1>
+
