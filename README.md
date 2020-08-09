@@ -29,9 +29,11 @@ Here are some ideas to get you started:
 	<p>todo: auto feed my blogs here</p>
 </div>
 
-📫 How to reach me: 
+# 💬 Contacts
+<h2> 📫 How to reach me: </h2>
 
-wangziqizachary@163.com
+wangziqizachary@163.com  
+
 wangziqi@alumni.stanford.edu
 
-Both English and Chinese work for me
+Both English and Chinese work for me.
