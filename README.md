@@ -27,11 +27,13 @@ Here are some ideas to get you started:
 
 <div>
 	<p>todo: auto feed my blogs here</p>
-	<a href="https://github.com/anuraghazra/github-readme-stats">
+	<a href="https://github.com/hzwdachui/Notes">
  	 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hzwdachui&repo=Notes&theme=dark" />
 	</a>
-	<a href="https://github.com/anuraghazra/convoychat">
+	<a href="https://github.com/hzwdachui/flaskweb">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hzwdachui&repo=flaskweb&theme=dark" />
+	</a>
+	<a href="https://github.com/hzwdachui/search-demo">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hzwdachui&repo=search-demo&theme=dark" />
 	</a>
 </div>
