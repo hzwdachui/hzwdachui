@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 	</a>
 	<a href="https://github.com/anuraghazra/convoychat">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hzwdachui&repo=flaskweb&theme=dark" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hzwdachui&repo=search-demo&theme=dark" />
 	</a>
 </div>
 </br>
