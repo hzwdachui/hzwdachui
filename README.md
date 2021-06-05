@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 <div>
 	<p>todo: auto feed my blogs here</p>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
- 	 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hzwdachui&repo=Notes" />
+ 	 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hzwdachui&repo=Notes&theme=dark" />
 	</a>
 	<a href="https://github.com/anuraghazra/convoychat">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hzwdachui&repo=flaskweb" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hzwdachui&repo=flaskweb&theme=dark" />
 	</a>
 </div>
 </br>
