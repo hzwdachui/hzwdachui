@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 <div>
 	<p>todo: auto feed my blogs here</p>
+
 </div>
 
 # 💬 Contacts
@@ -37,3 +38,6 @@ wangziqizachary@163.com
 wangziqi@alumni.stanford.edu
 
 Both English and Chinese work for me.
+
+# Statistics
+![](https://github-readme-stats.vercel.app/api?username=hzwdachui)
